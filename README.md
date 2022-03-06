@@ -13,3 +13,6 @@ A demo Android Application showing users of a language community
 4. **viewModels**: ViewModel class for providing data to the Ui.  
 3. **ui**: View classes along with their corresponding ViewModel.
 
+
+#### The DEBUG_APK folder contains a debug apk for viewing
+
