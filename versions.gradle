@@ -1,0 +1,20 @@
+ext {
+    gradleVersion = "7.0.2"
+    kotlinVersion = "1.6.10"
+
+    compileSdkVersion = 31
+    minSdkVersion = 19
+    targetSdkVersion = 31
+
+    appVersionCode = 1
+    appVersionName = "1.0"
+
+    nav_version = "2.4.1"
+    room_version = "2.4.2"
+    lifecycle_version = "2.4.1"
+    glideVersion = "4.13.0"
+    dimenVersion = "1.0.6"
+    stethoVersion = "1.6.0"
+    gsonVersion = "2.8.9"
+    retrofitVersion = "2.9.0"
+}
